@@ -1,0 +1,80 @@
+C:\Users\Студент\source\repos\Money Calculator\bin\Debug\Money Calculator.exe.config
+C:\Users\Студент\source\repos\Money Calculator\bin\Debug\Money Calculator.exe
+C:\Users\Студент\source\repos\Money Calculator\bin\Debug\Money Calculator.pdb
+C:\Users\Студент\source\repos\Money Calculator\obj\Debug\Money_Calculator.Form1.resources
+C:\Users\Студент\source\repos\Money Calculator\obj\Debug\Money_Calculator.Properties.Resources.resources
+C:\Users\Студент\source\repos\Money Calculator\obj\Debug\Money Calculator.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\Money Calculator\obj\Debug\Money Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\Money Calculator\obj\Debug\Money Calculator.exe
+C:\Users\Студент\source\repos\Money Calculator\obj\Debug\Money Calculator.pdb
+C:\Users\Студент\source\repos\Money Calculator\bin\Debug\EntityFramework.dll
+C:\Users\Студент\source\repos\Money Calculator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Студент\source\repos\Money Calculator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Студент\source\repos\Money Calculator\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Студент\source\repos\Money Calculator\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Студент\source\repos\Money Calculator\bin\Debug\EntityFramework.xml
+C:\Users\Студент\source\repos\Money Calculator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Студент\source\repos\Money Calculator\bin\Debug\System.Data.SQLite.xml
+C:\Users\Студент\source\repos\Money Calculator\obj\Debug\Money Calculator.csproj.CopyComplete
+C:\Users\Студент\source\repos\Money Calculator\obj\Debug\Money Calculator.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\Money Calculator\obj\Debug\Money_Calculator.Custom_Elements.CTextBox.resources
+C:\Users\Admin\Desktop\Money Calculator\bin\Debug\Money Calculator.exe.config
+C:\Users\Admin\Desktop\Money Calculator\bin\Debug\Money Calculator.exe
+C:\Users\Admin\Desktop\Money Calculator\bin\Debug\Money Calculator.pdb
+C:\Users\Admin\Desktop\Money Calculator\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Money Calculator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Money Calculator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\Money Calculator\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Admin\Desktop\Money Calculator\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Admin\Desktop\Money Calculator\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Money Calculator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Money Calculator\bin\Debug\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\Money Calculator\obj\Debug\Money Calculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Money Calculator\obj\Debug\Money_Calculator.Custom_Elements.CTextBox.resources
+C:\Users\Admin\Desktop\Money Calculator\obj\Debug\Money_Calculator.Form1.resources
+C:\Users\Admin\Desktop\Money Calculator\obj\Debug\Money_Calculator.Properties.Resources.resources
+C:\Users\Admin\Desktop\Money Calculator\obj\Debug\Money Calculator.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Money Calculator\obj\Debug\Money Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Money Calculator\obj\Debug\Money Calculator.csproj.CopyComplete
+C:\Users\Admin\Desktop\Money Calculator\obj\Debug\Money Calculator.exe
+C:\Users\Admin\Desktop\Money Calculator\obj\Debug\Money Calculator.pdb
+E:\C#\405Calculator\bin\Debug\Money Calculator.exe.config
+E:\C#\405Calculator\bin\Debug\Money Calculator.exe
+E:\C#\405Calculator\bin\Debug\Money Calculator.pdb
+E:\C#\405Calculator\bin\Debug\EntityFramework.dll
+E:\C#\405Calculator\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\405Calculator\bin\Debug\System.Data.SQLite.dll
+E:\C#\405Calculator\bin\Debug\System.Data.SQLite.EF6.dll
+E:\C#\405Calculator\bin\Debug\System.Data.SQLite.Linq.dll
+E:\C#\405Calculator\bin\Debug\EntityFramework.xml
+E:\C#\405Calculator\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\405Calculator\bin\Debug\System.Data.SQLite.xml
+E:\C#\405Calculator\obj\Debug\Money Calculator.csproj.AssemblyReference.cache
+E:\C#\405Calculator\obj\Debug\Money_Calculator.Custom_Elements.CTextBox.resources
+E:\C#\405Calculator\obj\Debug\Money_Calculator.Form1.resources
+E:\C#\405Calculator\obj\Debug\Money_Calculator.Properties.Resources.resources
+E:\C#\405Calculator\obj\Debug\Money Calculator.csproj.GenerateResource.cache
+E:\C#\405Calculator\obj\Debug\Money Calculator.csproj.CoreCompileInputs.cache
+E:\C#\405Calculator\obj\Debug\Money Calculator.csproj.CopyComplete
+E:\C#\405Calculator\obj\Debug\Money Calculator.exe
+E:\C#\405Calculator\obj\Debug\Money Calculator.pdb
+C:\Users\wxwwa\source\repos\405Calculator-main\bin\Debug\Money Calculator.exe.config
+C:\Users\wxwwa\source\repos\405Calculator-main\bin\Debug\Money Calculator.exe
+C:\Users\wxwwa\source\repos\405Calculator-main\bin\Debug\Money Calculator.pdb
+C:\Users\wxwwa\source\repos\405Calculator-main\bin\Debug\EntityFramework.dll
+C:\Users\wxwwa\source\repos\405Calculator-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wxwwa\source\repos\405Calculator-main\bin\Debug\System.Data.SQLite.dll
+C:\Users\wxwwa\source\repos\405Calculator-main\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\wxwwa\source\repos\405Calculator-main\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\wxwwa\source\repos\405Calculator-main\bin\Debug\EntityFramework.xml
+C:\Users\wxwwa\source\repos\405Calculator-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wxwwa\source\repos\405Calculator-main\bin\Debug\System.Data.SQLite.xml
+C:\Users\wxwwa\source\repos\405Calculator-main\obj\Debug\Money Calculator.csproj.AssemblyReference.cache
+C:\Users\wxwwa\source\repos\405Calculator-main\obj\Debug\Money_Calculator.Custom_Elements.CTextBox.resources
+C:\Users\wxwwa\source\repos\405Calculator-main\obj\Debug\Money_Calculator.Form1.resources
+C:\Users\wxwwa\source\repos\405Calculator-main\obj\Debug\Money_Calculator.Properties.Resources.resources
+C:\Users\wxwwa\source\repos\405Calculator-main\obj\Debug\Money Calculator.csproj.GenerateResource.cache
+C:\Users\wxwwa\source\repos\405Calculator-main\obj\Debug\Money Calculator.csproj.CoreCompileInputs.cache
+C:\Users\wxwwa\source\repos\405Calculator-main\obj\Debug\Money Calculator.csproj.CopyComplete
+C:\Users\wxwwa\source\repos\405Calculator-main\obj\Debug\Money Calculator.exe
+C:\Users\wxwwa\source\repos\405Calculator-main\obj\Debug\Money Calculator.pdb
